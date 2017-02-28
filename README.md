@@ -5,8 +5,8 @@ What this is about?
 
 This is a configurations summary as part of the Udacity Linux Configurations course. The objective was to setup a python flask application to be served using an Apache webserver. Additinally all the data is being served using PostgreSQL.
 
-IP address: 35.160.19.90
-URL: http://35.160.19.90/restaurants/
+* IP address: 35.160.19.90
+* URL: http://35.160.19.90/restaurants/
 
 
 ## Summary of Packages installed
